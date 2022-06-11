@@ -1,5 +1,10 @@
 package za.ac.cput.schoolmanagement.domain;
-
+/*
+ School_Management
+ Entity for the Student
+ Author: Edvalter da Costa Jamba (220446571)
+ Date: 11 June 2022
+*/
 public class Student {
     private String studentid;
     private String studentemail;
